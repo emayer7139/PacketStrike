@@ -42,7 +42,7 @@ It uses raw sockets for high-performance ICMP (ping), ARP, and TCP SYN scanning,
 
 ### 1. **Clone or Download**
 
-```sh
+```
 git clone https://github.com/YOUR_USER/PacketStrike.git
 cd PacketStrike
 ```
